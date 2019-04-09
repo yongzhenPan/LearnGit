@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 dfjdkfj
 dfkdf
 fdd
+=======
+pyz
+>>>>>>> 82284cf334c587675637e67dab4930ae02a97c99
+fdhfhdh
